@@ -1,4 +1,4 @@
 # Node.js W3Schools
- Desarrollo de las unidades de Node.js tutorial, de w3schools, enlace al tutorial: https://www.w3schools.com/nodejs/default.asp
- <br>
- Cada una de las ramas es una unidad del tutorial
+##Commit: The Nodemailer Module
+Para ejecutar este ejemplo, ejecutamos la siguiente linea de comando para instalar el modulo nodemailer:<br>
+C:\Users\Your Name>npm install nodemailer
