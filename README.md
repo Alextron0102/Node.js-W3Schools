@@ -1,4 +1,7 @@
-# Node.js W3Schools
- Desarrollo de las unidades de Node.js tutorial, de w3schools, enlace al tutorial: https://www.w3schools.com/nodejs/default.asp
+# Node.js HTTP Module
+## Commit: Node.js as a Web Server
+ Para iniciar el archivo ejecutar:
  <br>
- Cada una de las ramas es una unidad del tutorial
+ PS C:\Users\Your Name>node demo_http.js
+ <br>
+ Ingresar a http://localhost:8080
