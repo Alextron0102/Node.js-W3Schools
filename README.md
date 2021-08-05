@@ -1,3 +1,3 @@
 # Node.js W3Schools
-##Commit: Events Module
+##Commit: The EventEmitter Object
  
