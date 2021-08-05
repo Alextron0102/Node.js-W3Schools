@@ -1,4 +1,6 @@
 # Node.js W3Schools
- Desarrollo de las unidades de Node.js tutorial, de w3schools, enlace al tutorial: https://www.w3schools.com/nodejs/default.asp
- <br>
- Cada una de las ramas es una unidad del tutorial
+##Commit: Download a Package
+ Para descargar un package ejecutamos la siguiente linea de comando en nuestra consola:<br>
+ C:\Users\Your Name>npm install upper-case<br>
+ En este caso instalamos la librería upper-case, que nos genera la carpeta node_modules junto con 2 archivos: package-lock.json y package.json
+ 
