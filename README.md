@@ -1,5 +1,5 @@
 # Node.js HTTP Module
-## Commit: Add an HTTP Header
+## Commit: Read the Query String
  Para iniciar el archivo ejecutar:
  <br>
  PS C:\Users\Your Name>node demo_http.js
