@@ -1,7 +1,3 @@
 # Node.js Get Started
-##Commit: Read Files
- Para iniciar el archivo ejecutar:
- <br>
- PS C:\Users\Your Name>node demo_readfile.js
- <br>
- Ingresar a http://localhost:8080
+##Commit: Create Files
+En este caso se demuestran los ejemplos de las funciones appendFile, open y writeFile de la librería fs.
