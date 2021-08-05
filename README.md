@@ -1,4 +1,4 @@
 # Node.js W3Schools
-##Commit: Node.js Upload Files
-Ejecutamos la siguiente linea de comando:<br>
-PS C:\Users\Your Name>npm install formidable
+##Commit: Upload Files
+Para ejecutar el ejemplo, se debe de ejecutar el comando:<br>
+PS C:\Users\Your Name>node example.js
